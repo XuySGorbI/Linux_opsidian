@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "5b1f267223e2b1a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "643c1715f31cfd83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e0a6d4bf112c683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Быстрая подкачка библиотек для python на linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "001d5a21f52d54b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e1c5da0b3e4c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6192d691c423051",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44eb4c035418a756",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6778c2c3c346d2d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cfb27d58a83ed3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e150f5f24f2592ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3337731fbe4d142",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Быстрая подкачка библиотек для python на linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edad03ed1763520e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Быстрая подкачка библиотек для python на linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed5bf8fde47308f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6bcc5208cc016e55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Быстрая подкачка библиотек для python на linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "3e0a6d4bf112c683",
+  "lastOpenFiles": [
+    "Быстрая подкачка библиотек для python на linux.md",
+    "Проверка температуры.md",
+    "Как переключатся между мониторами.md",
+    "Без названия"
+  ]
+}
