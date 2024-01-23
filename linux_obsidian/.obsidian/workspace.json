@@ -21,8 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "03d3a1ea7b825493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Быстрое обновление.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "разные полезности.canvas",
+                "file": "Быстрое обновление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "разные полезности.canvas",
+                "file": "Быстрое обновление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "разные полезности.canvas"
+                "file": "Быстрое обновление.md"
               }
             }
           },
@@ -161,11 +174,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3e0a6d4bf112c683",
+  "active": "03d3a1ea7b825493",
   "lastOpenFiles": [
+    "разные полезности.canvas",
+    "Быстрое обновление.md",
     "Остановка машины.md",
     "Проверка температуры.md",
-    "разные полезности.canvas",
     "Быстрая подкачка библиотек для python на linux.md",
     "Без названия",
     "Без названия 1.canvas",
