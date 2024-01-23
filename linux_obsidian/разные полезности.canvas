@@ -1,8 +1,9 @@
 {
 	"nodes":[
-		{"id":"a3252e2311ebda29","x":-700,"y":-320,"width":400,"height":400,"type":"file","file":"Быстрая подкачка библиотек для python на linux.md"},
-		{"id":"b18d2f64604d1c3a","x":-280,"y":-320,"width":400,"height":400,"type":"file","file":"Как переключатся между мониторами.md"},
-		{"id":"206d5e0d8b719735","x":140,"y":-320,"width":400,"height":400,"type":"file","file":"Проверка температуры.md"}
+		{"id":"a3252e2311ebda29","type":"file","file":"Быстрая подкачка библиотек для python на linux.md","x":-700,"y":-320,"width":400,"height":400},
+		{"id":"b18d2f64604d1c3a","type":"file","file":"Как переключатся между мониторами.md","x":-280,"y":-320,"width":400,"height":400},
+		{"id":"206d5e0d8b719735","type":"file","file":"Проверка температуры.md","x":140,"y":-320,"width":400,"height":400},
+		{"id":"bb7c25409ad144c1","x":560,"y":-320,"width":400,"height":400,"type":"file","file":"Остановка машины.md"}
 	],
 	"edges":[]
 }
